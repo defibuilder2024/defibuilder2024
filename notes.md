@@ -6,3 +6,4 @@
 - 2026-11-14 · read the pump.fun docs
 - 2026-11-15 · fix a typo
 - 2026-11-16 · sketch the next tool
+- 2026-11-17 · reviewed the create flow
