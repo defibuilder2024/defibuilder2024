@@ -7,3 +7,4 @@
 - 2026-11-15 · fix a typo
 - 2026-11-16 · sketch the next tool
 - 2026-11-17 · reviewed the create flow
+- 2026-11-18 · clean logs
