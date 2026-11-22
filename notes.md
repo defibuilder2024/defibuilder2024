@@ -10,3 +10,4 @@
 - 2026-11-18 · clean logs
 - 2026-11-19 · scratch note
 - 2026-11-20 · scratch note
+- 2026-11-21 · rpc was flaky, swapped endpoint
