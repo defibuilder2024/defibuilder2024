@@ -13,3 +13,4 @@
 - 2026-11-21 · rpc was flaky, swapped endpoint
 - 2026-11-22 · small fixes
 - 2026-11-23 · reviewed the create flow
+- 2026-11-24 · api returned 429, added backoff
