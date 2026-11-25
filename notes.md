@@ -14,3 +14,4 @@
 - 2026-11-22 · small fixes
 - 2026-11-23 · reviewed the create flow
 - 2026-11-24 · api returned 429, added backoff
+- 2026-11-25 · scratch note
