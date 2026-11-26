@@ -1,15 +1,9 @@
-### hey, i'm Defibuilder
+<div align="center">
 
-Self-custody memecoin launchers. One clean Next.js app per chain, all on the same launch API — React frontend, bundled dev buy, holder auto-buy, an **auto-seller** with timed sells, live trading and per-wallet selling. Keys never leave your machine.
+### defibuilder2024
 
-| launch on | repo |
-|---|---|
-| Solana (pump.fun · letsbonk · Raydium) | [solana-launcher](https://github.com/defibuilder2024/solana-launcher) |
-| Robinhood Chain | [robinhood-launcher](https://github.com/defibuilder2024/robinhood-launcher) |
-| BNB Chain | [bnb-launcher](https://github.com/defibuilder2024/bnb-launcher) |
-| Elysium (Hyperliquid L2) | [elysium-launcher](https://github.com/defibuilder2024/elysium-launcher) |
-| Base | [base-launcher](https://github.com/defibuilder2024/base-launcher) |
-| Ethereum | [eth-launcher](https://github.com/defibuilder2024/eth-launcher) |
-| Arc | [arc-launcher](https://github.com/defibuilder2024/arc-launcher) |
+Open-source memecoin launchers for every chain — one suite.
 
-Each one: `npm ci && npm run build && npm start`, or Vercel, or its Dockerfile. Built on Next.js + TypeScript with a React frontend.
+![followers](https://img.shields.io/github/followers/defibuilder2024?style=flat&labelColor=0b0b0c&color=7c9cff) ![last commit](https://img.shields.io/github/last-commit/defibuilder2024/solana-bundler-launcher-react-dashboard?style=flat&labelColor=0b0b0c&color=7c9cff) ![commit activity](https://img.shields.io/github/commit-activity/m/defibuilder2024/solana-bundler-launcher-react-dashboard?style=flat&labelColor=0b0b0c&color=7c9cff) ![top language](https://img.shields.io/github/languages/top/defibuilder2024/solana-bundler-launcher-react-dashboard?style=flat&labelColor=0b0b0c&color=7c9cff) ![license](https://img.shields.io/github/license/defibuilder2024/solana-bundler-launcher-react-dashboard?style=flat&labelColor=0b0b0c&color=7c9cff) ![stars](https://img.shields.io/github/stars/defibuilder2024/solana-bundler-launcher-react-dashboard?style=flat&labelColor=0b0b0c&color=7c9cff)
+
+</div>
