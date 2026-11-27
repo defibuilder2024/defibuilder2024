@@ -16,3 +16,4 @@
 - 2026-11-24 · api returned 429, added backoff
 - 2026-11-25 · scratch note
 - 2026-11-26 · api returned 429, added backoff
+- 2026-11-27 · api returned 429, added backoff
